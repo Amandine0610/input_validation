@@ -1,4 +1,4 @@
-# Project Documentation: Multi-Form Input Validation App
+## Project Documentation: Multi-Form Input Validation App
 
 ## 1. Introduction
 
